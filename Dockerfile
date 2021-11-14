@@ -1,1 +1,2 @@
-FROM gcr.io/google_containers/coredns:1.3.1
+FROM  k8s.gcr.io/coredns/coredns:v1.8.4
+MAINTAINER shenyaqi <beaconx@qq.com>
